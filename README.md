@@ -1,6 +1,31 @@
-# KryinCaption Turbo — High-Speed Video Captioning Agent
+<!-- Banner -->
+<h1 align="center">Hi 👋, I'm Arth aka Narco</h1>
 
-An evaluation-optimized video captioning system built for extreme speed and high quality. Uses streaming-first cv2 frame extraction, a two-stage scene intelligence pipeline, and a Gemma-based critic model with automatic fallback.
+<h3 align="center">
+  Founder & CEO of KryinLabs • Vibe Coder • AI Builder
+</h3>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=16A07A&center=true&vCenter=true&width=700&lines=KryinCaption+AI+Video+Agent;9-Step+Agentic+Video+Understanding;Built+for+AMD+Developer+Hackathon"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ArthOfficial">
+    <img
+      src="https://komarev.com/ghpvc/?username=ArthOfficial&label=Profile%20Views&color=16A07A&style=for-the-badge"
+      alt="Profile Views"
+    />
+  </a>
+</p>
+
+---
+
+## 🎬 About KryinCaption AI
+
+**KryinCaption Turbo** is an evaluation-optimized video captioning system built for extreme speed and high quality. The agent utilizes a streaming-first cv2 frame extraction model, a two-stage scene intelligence pipeline, and a Gemma-based critic loop with automatic fallback.
 
 ---
 
